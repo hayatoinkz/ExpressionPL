@@ -4,10 +4,29 @@
 
 Implemente uma nova versão da família de programas para avaliação de expressões [1], utilizando uma linguagem de programação do seu interesse. Identifique construções dessa linguagem de programação que podem favorecer a modularização da família de programas.
 
+### PRÉ-REQUISITOS
+
+- Ruby
+- Test Unit
+
+**Instalação do Test Unit:**
+
+```bash
+sudo gem install test-unit
+```
+
 ### EXECUÇÃO:
+
+Execução do Programa:
 
 ```bash
 ruby main.rb
+```
+
+Execução dos Testes:
+
+```bash
+ruby test.rb
 ```
 
 Criação de variáveis e Impressão na Tela:
